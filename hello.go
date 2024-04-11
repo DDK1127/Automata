@@ -4,7 +4,7 @@ package main
 	func main(){
 		fmt.Printf("Hello world!, 你好，世界,こんにちはせかい\n")
 
-		ddk, wall, bell := "董承恩", "少華", "鍾哥"
+		ddk, eric, bell := "d", "bbkea", "鍾哥"
 		eric := "eric"
 		fmt.Println(ddk, wall, bell, eric)
 
